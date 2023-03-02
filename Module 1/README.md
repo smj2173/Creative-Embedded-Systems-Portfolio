@@ -1,7 +1,7 @@
 #Generative Art Installation
 
 <div style="width: 60%; height: 60%">
-![Alt text](IMG_8489.jpeg) 
+![](IMG_8489.jpeg) 
 </div>
 
 This project was completed using an ESP32 TTGO T-display with the end-goal of creating a generative art installation.
