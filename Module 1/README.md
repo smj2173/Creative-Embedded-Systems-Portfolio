@@ -1,4 +1,6 @@
-**Generative Art Installation **
+#Generative Art Installation
+
+![Alt text](related.png)
 
 This project was completed using an ESP32 TTGO T-display with the end-goal of creating a generative art installation.
 
@@ -13,3 +15,5 @@ Arduino allowed me to customize when and how colors might change in the generati
 In order to get the code I implemented on Arduino my MacBook Air laptop to the ESP32, I connected my ESP32 to my computer using an USB-C cable on both ends. I was then able to compile and upload the code so that would it would run on the ESP32 device. This was an important part of the testing process of my creative vision in assessing how the code I was writing manifested on a visual interface.
 
 Once the code with the graphics I desired to display on my ESP32 was compiled and uploaded onto my device, the only step remaining was to plug the ESP32 into the hardware board in the installation and then my code and therefore generative art would run and be visible to others in the class as part of the class-wide installation!
+
+
