@@ -1,6 +1,6 @@
 #Generative Art Installation
 
-![Alt text](IMG_8489.jpeg)
+![Alt text](IMG_8489.jpeg | width=100)
 
 This project was completed using an ESP32 TTGO T-display with the end-goal of creating a generative art installation.
 
