@@ -1,4 +1,4 @@
-#Generative Art Installation
+<b>Generative Art Installation</b>
 
 <div style="width: 20%; height: 20%">
 <img src=IMG_8489.jpeg>
