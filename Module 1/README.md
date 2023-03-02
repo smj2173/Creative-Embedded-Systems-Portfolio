@@ -1,7 +1,7 @@
 <b>Generative Art Installation</b>
 
-<div style="width: 20%; height: 20%">
-<img src=IMG_8489.jpeg>
+<div>
+<img src=IMG_8489.jpeg style="width: 20%">
 </div>
 
 This project was completed using an ESP32 TTGO T-display with the end-goal of creating a generative art installation.
