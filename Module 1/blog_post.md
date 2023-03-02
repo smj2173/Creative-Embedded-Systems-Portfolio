@@ -1,5 +1,5 @@
 <b>Generative Art Installation: My Experience</b>
 
-<div>
-<img src=IMG_8489.jpeg style="width: 40%; height: 60%">
-</div>
+<video width="320" height="240" controls>
+  <source src="movie.mp4" type="video/mp4">
+</video>
