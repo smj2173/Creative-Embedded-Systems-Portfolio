@@ -1,6 +1,6 @@
 #Generative Art Installation
 
-<div style="width: 60%; height: 60%">
+<div style="width: 20%; height: 20%">
 <img src=IMG_8489.jpeg>
 </div>
 
