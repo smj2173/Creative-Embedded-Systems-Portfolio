@@ -12,9 +12,13 @@ In approaching my Valentine's Day centered design, I brainstormed what images, c
 
 In turn, the text I rotated between in my design is as follows:
 "happy valentine's day. i love you so much <3 <3 <3 <3"
+
 "sending love letter. you're my world. xoxoxoxo"
+
 "kisses to you. you're my world. xoxoxoxo"
+
 "cupid xoxo <3 <3 <3 heart eyes"
+
 "candy hearts red roses"
 
 To enhance the artistry of the display of these messages, I implemented the code such that the colors of both the text and the background would shift between the pre-selected white, purple, pink, and red hues. I felt the variety of colors in the rotation of messages displayed would enhance the liveliness of the design and further emphasize the Valentine's Day theme. 
