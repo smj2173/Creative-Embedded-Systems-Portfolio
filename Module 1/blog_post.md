@@ -1,6 +1,6 @@
 <b>Generative Art Installation: My Experience</b>
 
-<img src="display.jpeg" style="width: 120%; height: 150%">
+<img src="display.jpeg" style="width: 80%; height: 80%">
 
 This classroom installation was originally scheduled for February 14, 2023 on Valentine's Day. My creative vision was motivated by designing generative art that would represent the holiday in some form, of conveying a message of love and affection that is especially emphasized on this holiday. 
 
@@ -21,7 +21,7 @@ In turn, the text I rotated between in my design is as follows:
 
 To enhance the artistry of the display of these messages, I implemented the code such that the colors of both the text and the background would shift between the pre-selected white, purple, pink, and red hues. I felt the variety of colors in the rotation of messages displayed would enhance the liveliness of the design and further emphasize the Valentine's Day theme. 
 
-<img src="alone.jpeg" style="width: 120%; height: 100%">
+<img src="alone.jpeg" style="width: 60%; height: 40%">
 
 I implemented the switches from message to message the same way such that the text would be displayed roughly in the same position and size in each message and that each message would be displayed for the same amount of time. I also had this rotation of messages in a cycle so that the ESP32 displays ceaselessly repeats the transition from message to message. 
 
