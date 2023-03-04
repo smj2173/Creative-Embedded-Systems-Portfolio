@@ -26,3 +26,5 @@ To enhance the artistry of the display of these messages, I implemented the code
 I implemented the switches from message to message the same way such that the text would be displayed roughly in the same position and size in each message and that each message would be displayed for the same amount of time. I also had this rotation of messages in a cycle so that the ESP32 displays ceaselessly repeats the transition from message to message. 
 
 <img src="ezgif.com-video-to-gif.gif">
+
+On the whole, there were no large technical difficulties with carrying out the artistic vision I had for the ESP32. A small issue that arose was making the text small enough so that the longer message sequences like "Happy Valentine's Day" fit on one line, as well as setting separate lines of texts far enough away from one another in the vertical dimension such that they would not overlap. This took some trial and error but was successfully achieved. 
