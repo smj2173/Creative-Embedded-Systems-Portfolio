@@ -6,6 +6,8 @@
 
 <video width="320" height="240" src="IMG_8490.MOV"></video>
 
+<img src="ezgif.com-video-to-gif.gif">
+
 This classroom installation was originally scheduled for February 14, 2023 on Valentine's Day. My creative vision was motivated by designing generative art that would represent the holiday in some form, of conveying a message of love and affection that is especially emphasized on this holiday. 
 
 In approaching my Valentine's Day centered design, I brainstormed what images, colors, and messages best encapsulated the holiday. I settled on the traditional pink, white, purple, and red hues, and warm, heartwarming messages. My design was in part inspired by the Sweethearts candies that say brief messages on hearts, as well as popular Valentine's day card prompts and expressions of love. 
