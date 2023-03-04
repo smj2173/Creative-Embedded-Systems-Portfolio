@@ -18,4 +18,5 @@ In order to get the code I implemented on Arduino my MacBook Air laptop to the E
 
 Once the code with the graphics I desired to display on my ESP32 was compiled and uploaded onto my device, the only step remaining was to plug the ESP32 into the hardware board in the installation and then my code and therefore generative art would run and be visible to others in the class as part of the class-wide installation!
 
+For more information about the creative design process, please examine the blog.md file in this directory. 
 
