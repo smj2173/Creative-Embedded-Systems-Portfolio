@@ -1,6 +1,6 @@
 <b>Generative Art Installation: My Experience</b>
 
-<img src="ezgif.com-crop.gif" style="width=150%; height: 150%">
+<img src="ezgif.com-crop.gif" style="width: 100%; height: 200%"">
 
 This classroom installation was originally scheduled for February 14, 2023 on Valentine's Day. My creative vision was motivated by designing generative art that would represent the holiday in some form, of conveying a message of love and affection that is especially emphasized on this holiday. 
 
