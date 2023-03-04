@@ -19,6 +19,8 @@ In turn, the text I rotated between in my design is as follows:
 
 "candy hearts red roses"
 
+<img src="a.jpeg" style="width: 40%; height: 40%">
+
 To enhance the artistry of the display of these messages, I implemented the code such that the colors of both the text and the background would shift between the pre-selected white, purple, pink, and red hues. I felt the variety of colors in the rotation of messages displayed would enhance the liveliness of the design and further emphasize the Valentine's Day theme. 
 
 I implemented the switches from message to message the same way such that the text would be displayed roughly in the same position and size in each message and that each message would be displayed for the same amount of time. I also had this rotation of messages in a cycle so that the ESP32 displays ceaselessly repeats the transition from message to message. 
