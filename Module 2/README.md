@@ -10,6 +10,8 @@ The first challenge of this module was to code the Arduino file that would print
 
 Next, I coded the creative portion of my design.This necessitated downloading Processing and making that serial connection with the output of the xxxxxxxx value. 
 
+When brainstorming what I wanted my creative interface to look like, I thought of none other than the iconic I <3 NY logo given that the city of New York's offical logo was just changed a few weeks ago to an updated version. The design of my interface is relatively simple: when the button is clicked, the black logo backgrounds switch to white, and the white logo backgrounds switch to black, mimicing a GIF. This process can be seen below. In this image, I am continously pressing the button so the colors switch back and forth. 
+
 <img src="img/ezgif.com-video-to-gif.gif">
 
 <img src="img/ezgif.com-video-to-gif-2.gif">
