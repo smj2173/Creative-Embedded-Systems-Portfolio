@@ -12,9 +12,12 @@ Next, I coded the creative portion of my design.This necessitated downloading Pr
 
 When brainstorming what I wanted my creative interface to look like, I thought of none other than the iconic I <3 NY logo given that the city of New York's offical logo was just changed a few weeks ago to an updated version. The design of my interface is relatively simple: when the button is clicked, the black logo backgrounds switch to white, and the white logo backgrounds switch to black, mimicing a GIF. This process can be seen below. In this image, I am continously pressing the button so the colors switch back and forth. 
 
-The switch in the button state can be seen in the second image on the processing console, where the button output value switches from 0 to 1 to 0 to 1, etc. 
+The switch in the button state can be seen in the below video on the processing console, where the button output value switches from 0 to 1 to 0 to 1, etc. 
+
+<img src="img/ezgif.com-video-to-gif-2.gif">
 
 <img src="img/ezgif.com-video-to-gif.gif">
 
-<img src="img/ezgif.com-video-to-gif-2.gif">
+After constructing the code that would create an interactive interface upon button press, I built an enclosure to hide the implementation details and wiring on the bread board. As you can see in the image below, all that is visible of the breadboard is the button. The breadboard is hidden within a box decorated with artistic paper. 
+
 
