@@ -20,4 +20,4 @@ The switch in the button state can be seen in the below video on the processing 
 
 After constructing the code that would create an interactive interface upon button press, I built an enclosure to hide the implementation details and wiring on the bread board. As you can see in the image below, all that is visible of the breadboard is the button. The breadboard is hidden within a box decorated with artistic paper. 
 
-
+<img src="IMG_9234.jpeg">
